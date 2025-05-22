@@ -1,0 +1,101 @@
+Item,Location,Quantity,Usability
+Transistor,Rack 1#a,7,Usable
+Capacitor,Rack 3#c,42,Reusable
+LED,Rack 3#b,32,Reusable
+Soil Moisture Sensor,Rack 3#a,21,Reusable
+DHT11,Rack 2#d,33,Reusable
+SIM800 Module,Rack 2#a,6,Reusable
+ESP32,Rack 5#b,6,Usable
+Arduino Uno,Rack 3#c,33,Usable
+Raspberry Pi,Rack 5#b,42,Reusable
+Breadboard,Rack 5#d,27,Reusable
+Jumper Wires,Rack 5#a,25,Reusable
+Relay Module,Rack 1#b,38,Reusable
+Ultrasonic Sensor,Rack 1#b,31,Reusable
+IR Sensor,Rack 2#c,9,Reusable
+LDR,Rack 5#b,29,Reusable
+Push Button,Rack 4#c,47,Usable
+Resistor Pack,Rack 4#d,2,Reusable
+Potentiometer,Rack 3#c,27,Usable
+LCD Display,Rack 3#d,7,Usable
+OLED Display,Rack 5#c,16,Reusable
+I2C Module,Rack 4#c,33,Usable
+Stepper Motor,Rack 4#d,22,Usable
+Servo Motor,Rack 1#a,31,Reusable
+DC Motor,Rack 1#d,20,Reusable
+Motor Driver,Rack 1#a,50,Reusable
+Buzzer,Rack 5#c,39,Usable
+Vibration Sensor,Rack 4#a,43,Reusable
+Flame Sensor,Rack 5#a,4,Reusable
+Gas Sensor,Rack 5#d,45,Reusable
+Tilt Sensor,Rack 5#b,18,Reusable
+Temperature Sensor,Rack 4#a,13,Reusable
+Humidity Sensor,Rack 5#c,9,Usable
+Water Flow Sensor,Rack 4#a,47,Usable
+Rain Sensor,Rack 5#c,48,Usable
+Sound Sensor,Rack 5#c,3,Reusable
+PIR Sensor,Rack 1#b,36,Reusable
+Current Sensor,Rack 1#c,50,Reusable
+Voltage Sensor,Rack 3#d,6,Usable
+Light Sensor,Rack 2#a,28,Reusable
+Hall Effect Sensor,Rack 1#c,46,Reusable
+Proximity Sensor,Rack 5#c,31,Reusable
+GPS Module,Rack 5#b,19,Usable
+Bluetooth Module,Rack 4#a,34,Reusable
+WiFi Module,Rack 4#b,5,Usable
+GSM Module,Rack 2#b,4,Usable
+NFC Module,Rack 4#d,17,Reusable
+RFID Reader,Rack 1#c,29,Usable
+RFID Tag,Rack 3#d,4,Usable
+Micro SD Card Module,Rack 2#b,49,Usable
+RTC Module,Rack 5#c,49,Usable
+Battery Holder,Rack 2#c,38,Reusable
+Li-ion Battery,Rack 3#a,16,Usable
+18650 Battery,Rack 5#d,9,Reusable
+Battery Charger,Rack 2#c,37,Reusable
+Power Supply Module,Rack 1#b,8,Usable
+Voltage Regulator,Rack 4#d,8,Reusable
+Heatsink,Rack 4#c,9,Reusable
+Cooling Fan,Rack 2#d,2,Reusable
+Thermal Paste,Rack 5#d,33,Usable
+Multimeter,Rack 2#b,7,Reusable
+Soldering Iron,Rack 2#c,26,Usable
+Solder Wire,Rack 5#c,36,Reusable
+Desoldering Pump,Rack 4#c,44,Usable
+PCB Board,Rack 2#d,15,Reusable
+Copper Clad Board,Rack 1#a,17,Reusable
+Etching Solution,Rack 4#b,19,Usable
+Hot Air Gun,Rack 4#b,14,Usable
+Screwdriver Set,Rack 2#c,48,Reusable
+Pliers,Rack 4#a,1,Usable
+Wire Stripper,Rack 2#b,30,Usable
+Crimping Tool,Rack 3#c,46,Reusable
+Heat Shrink Tube,Rack 2#b,16,Usable
+Insulation Tape,Rack 4#d,27,Reusable
+Glue Gun,Rack 2#a,31,Usable
+Glue Stick,Rack 4#b,22,Usable
+Zip Ties,Rack 2#b,27,Usable
+Velcro Tape,Rack 1#b,3,Reusable
+Label Maker,Rack 4#d,29,Reusable
+Enclosure Box,Rack 4#b,47,Usable
+Mounting Bracket,Rack 1#d,28,Reusable
+Standoff Spacer,Rack 1#b,15,Usable
+Nut and Bolt Set,Rack 1#a,22,Usable
+Screws,Rack 3#c,7,Usable
+Washers,Rack 4#b,1,Reusable
+Rivets,Rack 3#b,41,Reusable
+Terminal Block,Rack 1#b,27,Usable
+Banana Plug,Rack 2#d,6,Reusable
+Crocodile Clip,Rack 3#a,7,Usable
+Alligator Clip,Rack 4#c,5,Reusable
+Test Probe,Rack 3#c,40,Usable
+Oscilloscope,Rack 4#c,34,Usable
+Logic Analyzer,Rack 5#d,38,Usable
+Function Generator,Rack 4#c,47,Reusable
+Digital Caliper,Rack 5#c,3,Usable
+Magnifying Glass,Rack 1#b,12,Reusable
+Workbench Mat,Rack 3#b,21,Usable
+Anti-static Wrist Strap,Rack 2#d,22,Reusable
+Safety Goggles,Rack 1#d,12,Reusable
+Face Mask,Rack 5#c,3,Usable
+Gloves,Rack 4#c,15,Reusable
