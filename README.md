@@ -9,7 +9,7 @@ Answer general questions using an embedded language model
 
 Operate completely offline for privacy and edge device usage
 
-The assistant uses Qwen 1.5 0.5B (a lightweight language model) and runs on a Raspberry Pi 4 Model B.
+The assistant uses Qwen 1.5 0.5B (a lightweight language model)
 
 Features
 1.Voice Input: Converts speech to text using offline speech recognition
